@@ -1,0 +1,13 @@
+{
+    "editor.fontSize": 15,
+    "code-runner.saveFileBeforeRun": true,
+    "files.associations": {
+        "stdio.h": "c",
+        "math.h": "c",
+        "algorithm": "c",
+        "OKKK.C": "cpp",
+        "ABBCC.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "code-runner.clearPreviousOutput": true
+}
